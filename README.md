@@ -44,15 +44,15 @@ Small bug, big lesson.
 
 ## 🚧 Challenges & Solutions
 
-# Relative Paths
+ Relative Paths
 
 Incorrect path:
 
-# ./images/cochinitapibil.png
+ ./images/cochinitapibil.png
 
 Correct path:
 
-# ../images/cochinitapibil.png
+ ../images/cochinitapibil.png
 
 Understanding when to “step out” of a folder (..) is essential for scalable file structures.
 
