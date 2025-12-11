@@ -26,20 +26,20 @@ https://www.theodinproject.com/lessons/foundations-recipes
 
 ## 🛠️  Technologies Used
 
-• HTML5
-• Git & GitHub
-• VS Code
+- HTML5
+- Git & GitHub
+- VS Code
 
 ## 🔥 Lesson Learned
 
 Working on this project helped reinforce:
 
-• Why relative paths matter
-• How to structure folders intentionally
-• Writing clear and descriptive HTML content
-• Committing in small, focused steps
+- Why relative paths matter
+- How to structure folders intentionally
+- Writing clear and descriptive HTML content
+- Committing in small, focused steps
 
-A single mistake — using ./images/... instead of ../images/... — broke image loading and forced me to re-understand directory navigation.
+A single mistake — using ./images/... instead of ../images/... - broke image loading and forced me to re-understand directory navigation.
 Small bug, big lesson.
 
 ## 🚧 Challenges & Solutions
@@ -58,11 +58,11 @@ Understanding when to “step out” of a folder (..) is essential for scalable 
 
 ## 🧪 Git Workflow 
 
-git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
-git status
-git add .
-git commit
-git push origin main
+- git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+- git status
+- git add .
+- git commit
+- git push origin main
 
 ## 📂 File Structure
 
@@ -79,6 +79,7 @@ odin-recipes/
     ├── chiles-en-nogada.png
     ├── cochinitapibil.png
     └── tamal.png
+
 
 ## ✔️ Result
 
