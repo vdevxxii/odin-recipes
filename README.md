@@ -8,10 +8,10 @@ The project showcases three Mexican recipes—Cochinita Pibil, Chiles en Nogada,
 
 ## 📌 Objective
 
-• Build a multi-page site using only fundamental HTML tools.
-• Maintain a clean folder structure and correct relative navigation.
-• Improve clarity, grammar, and descriptive writing directly in HTML.
-• Practice a consistent Git workflow with atomic, meaningful commits.
+- Build a multi-page site using only fundamental HTML tools.
+- Maintain a clean folder structure and correct relative navigation.
+- Improve clarity, grammar, and descriptive writing directly in HTML.
+- Practice a consistent Git workflow with atomic, meaningful commits.
 
 ## 📚 Background
 
@@ -67,18 +67,18 @@ Understanding when to “step out” of a folder (..) is essential for scalable 
 ## 📂 File Structure
 
 odin-recipes/
-│
-├── index.html
-│
-├── recipes/
-│   ├── chiles-en-nogada.html
-│   ├── cochinita-pibil.html
-│   └── tamales.html
-│
-└── images/
-    ├── chiles-en-nogada.png
-    ├── cochinitapibil.png
-    └── tamal.png
+
+    index.html
+
+    recipes/
+        chiles-en-nogada.html
+        cochinita-pibil.html
+        tamales.html
+
+     images/
+        chiles-en-nogada.png
+        cochinitapibil.png
+        tamal.png
 
 
 ## ✔️ Result
